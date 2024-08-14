@@ -1,0 +1,2 @@
+### Project Description:
+- RESTful API to serve weather data using data from http://openweathermap.org/api. An API that will get data from a weather API and return the minimum, maximum, average temperature, and humidity for a given city and day.
